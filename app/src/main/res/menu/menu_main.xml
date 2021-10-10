@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_settings" android:title="設定" />
+    <item android:id="@+id/action_help" android:title="問題回報" />
+    <item
+        android:id="@+id/action_delete"
+        android:title="清空題目" />
+    <item android:id="@+id/add_ques" android:title="新增" app:showAsAction="ifRoom" />
+</menu>

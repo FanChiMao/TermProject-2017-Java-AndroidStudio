@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:elevation="0dp"
+    tools:context="com.project.ee104b.ee_project.Main_Stud_Activity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#dfdfdf">
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/StudTabLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:fillViewport="false"
+            app:tabGravity="fill"
+            app:tabIndicatorColor="#6e6e6e"
+            app:tabIndicatorHeight="0dp"
+            app:tabMode="fixed"
+            app:tabPaddingBottom="5dp"
+            app:tabSelectedTextColor="#6e6e6e"
+            app:tabTextAppearance="@android:style/TextAppearance.Holo.Medium"
+            app:tabTextColor="#c6c6c6">
+
+            <android.support.design.widget.TabItem
+                android:id="@+id/Page1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="成績"
+                tools:background="@android:drawable/ic_menu_myplaces" />
+
+            <android.support.design.widget.TabItem
+                android:id="@+id/Page2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="科目" />
+
+            <android.support.design.widget.TabItem
+                android:id="@+id/Page3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="測驗" />
+
+        </android.support.design.widget.TabLayout>
+
+
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/StudViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:visibility="visible"
+        tools:ignore="InefficientWeight">
+
+    </android.support.v4.view.ViewPager>
+</LinearLayout>

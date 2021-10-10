@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.project.ee104b.ee_project.Enter_ID">
+
+    <Button
+        android:id="@+id/Enter_ID_bt"
+        android:layout_width="143dp"
+        android:layout_height="79dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="7dp"
+        android:layout_marginTop="8dp"
+        android:onClick="Enter_ID_bt"
+        android:text="@string/Enter"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/RG_ID"
+        app:layout_constraintVertical_bias="0.408"
+        tools:ignore="RtlHardcoded" />
+
+    <RadioGroup
+        android:id="@+id/RG_ID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="84dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RadioButton
+            android:id="@+id/ID_Teac"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:text=" 老 師 "
+            android:textSize="40sp" />
+
+        <RadioButton
+            android:id="@+id/ID_Stud"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:text=" 學 生 "
+            android:textSize="40sp" />
+    </RadioGroup>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EE_project</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Teac_name">XXX Teacher</string>
+    <string name="item1">班級成績</string>
+    <string name="item2">題目</string>
+    <string name="item3">考試房間</string>
+    <string name="ID_Teac">老師</string>
+    <string name="ID_學生">學生</string>
+    <string name="Enter">確認</string>
+    <string name="item12">My score</string>
+    <string name="item32">Test</string>
+    <string name="name">姓名 : </string>
+    <string name="New_name" />
+    <string name="stu_num">學號 : </string>
+    <string name="Stu_ID">學號</string>
+</resources>

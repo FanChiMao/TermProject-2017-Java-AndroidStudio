@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.project.ee104b.ee_project.Teac_name">
+
+    <TextView
+        android:id="@+id/te_n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="136dp"
+        android:background="#dfdfdf"
+        android:padding="5dp"
+        android:text=" 姓 名 : "
+        android:textSize="30sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="RtlHardcoded" />
+
+    <EditText
+        android:id="@+id/teac_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="0dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="@string/New_name"
+        app:layout_constraintBaseline_toBaselineOf="@+id/te_n"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:ignore="RtlHardcoded"
+        app:layout_constraintLeft_toRightOf="@+id/te_n"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintHorizontal_bias="0.108" />
+
+    <Button
+        android:id="@+id/enter_name"
+        android:layout_width="wrap_content"
+        android:layout_height="54dp"
+        android:layout_marginBottom="32dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:onClick="enter_name"
+        android:padding="10dp"
+        android:text="@string/Enter"
+        android:textSize="25sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/te_n"
+        app:layout_constraintVertical_bias="0.669" />
+</android.support.constraint.ConstraintLayout>
