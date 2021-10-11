@@ -25,7 +25,11 @@ Slides: [pdf](https://docs.google.com/presentation/d/1YsvzB4KOTbtPYtGbjwFzsWaPwZ
   <img src="https://i.ibb.co/FxNwbf8/s-4.jpg" alt="s-4" width="200" style="zoom:100%;"/> 
   <img src="https://i.ibb.co/19Nc772/s-5.jpg" alt="s-5" width="200" style="zoom:100%;"/> 
   <img src="https://i.ibb.co/GCX7PqK/s-6.jpg" alt="s-6" width="200" style="zoom:100%;"/>  
+  
 - 老師:  
+  <img src="https://i.ibb.co/ygvZ6WC/t-4.jpg" alt="t-4" width="200" style="zoom:100%;"/> 
+  <img src="https://i.ibb.co/qykFK76/t-5.jpg" alt="t-5" width="200" style="zoom:100%;"/> 
+  <img src="https://i.ibb.co/KGjy9zg/t-6.jpg" alt="t-6" width="200" style="zoom:100%;"/>  
   
 </details>  
 
