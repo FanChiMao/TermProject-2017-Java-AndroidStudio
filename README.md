@@ -38,7 +38,7 @@ Slides: [pdf](https://docs.google.com/presentation/d/1YsvzB4KOTbtPYtGbjwFzsWaPwZ
 
 ## Database (SQLite)  
 
-- Student database table 學生資料庫:  
+- Student database table **學生資料庫**:  
   | 科目 |  章節   | 題目內容 | 題目數目 | 正確數目  | 
   | :---------: | :--------------: | :----------------------: | :----------------------: | :----------------------: |  
   | "Chinese"   | "Chapter 1"      | "國 怎麼寫?"              | 1                        | 1                        |  
@@ -48,7 +48,7 @@ Slides: [pdf](https://docs.google.com/presentation/d/1YsvzB4KOTbtPYtGbjwFzsWaPwZ
   | "English"   | "Chapter 1"      | "國 的英文?"              | 1                        | 0                        |  
   | ... | ... | ... | ... | ... |  
   
-- Teacher database table 老師資料庫:  
+- Teacher database table **老師資料庫**:  
   - 題目資料庫  
 
   |科目|章節|題目內容|選項(A)內容|選項(B)內容|選項(C)內容|選項(D)內容|正確答案|時間設定|本題配分|出題時間|考試人數|  
