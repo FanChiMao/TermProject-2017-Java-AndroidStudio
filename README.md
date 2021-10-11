@@ -14,5 +14,6 @@ Slides: [pdf](https://docs.google.com/presentation/d/1YsvzB4KOTbtPYtGbjwFzsWaPwZ
 ## UI  
 
 ## Socket Connection  
+<img src="https://i.ibb.co/Bsb9sWw/1.jpg" alt="1">  
 
 ## Database  
