@@ -17,6 +17,16 @@ Slides: [pdf](https://docs.google.com/presentation/d/1YsvzB4KOTbtPYtGbjwFzsWaPwZ
   | :--: | :------------------: |  
   | 學生 |<img src="https://i.ibb.co/tc8FdwJ/s-1.jpg" width="200" style="zoom:100%;"/> <img src="https://i.ibb.co/JpZcgZq/s-2.jpg" width="200" style="zoom:100%;"/> <img src="https://i.ibb.co/N6QnT7t/s-3.jpg" width="200" style="zoom:100%;"/>|  
   | 老師 |<img src="https://i.ibb.co/x3P8BSz/t-1.jpg" width="200" style="zoom:100%;"/> <img src="https://i.ibb.co/dK6fG1t/t-2.jpg" width="200" style="zoom:100%;"/> <img src="https://i.ibb.co/7N7SwGZ/t-3.jpg" width="200" style="zoom:100%;"/>|  
+  
+<details>  
+<summary>More Figures: </summary>  
+- 學生:  
+  <img src="https://i.ibb.co/FxNwbf8/s-4.jpg" alt="s-4" width="200" style="zoom:100%;"/>  
+  
+- 老師:  
+  
+</details>  
+
 ## Socket Connection  
 <img src="https://i.ibb.co/Bsb9sWw/1.jpg" alt="1" width="500" >  
 
