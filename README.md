@@ -36,4 +36,16 @@ Slides: [pdf](https://docs.google.com/presentation/d/1YsvzB4KOTbtPYtGbjwFzsWaPwZ
 ## Socket Connection  
 <img src="https://i.ibb.co/Bsb9sWw/1.jpg" alt="1" width="500" >  
 
-## Database  
+## Database (SQLite)  
+
+- Student database table:  
+  | Subject 科目 |   Chapter 章節   | Question_Context 題目內容 | Question_Number 題目數目 |  Correct_Number 正確數目  | 
+  | :---------: | :--------------: | :----------------------: | :----------------------: | :----------------------: |  
+  | "Chinese"   | "Chapter 1"      | "國 怎麼寫?"              | 1                        | 1                        |  
+  | "Chinese"   | "Chapter 1"      | "字 怎麼寫?"              | 1                        | 0                        |  
+  | "Chinese"   | "Chapter 2"      | "國 怎麼拼?"              | 1                        | 1                        |  
+  | "Math"      | "Chapter 1"      | "1 + 1 = ?"              | 1                        | 1                        |  
+  | "English"   | "Chapter 1"      | "國 的英文?"              | 1                        | 0                        |  
+  
+  
+  
