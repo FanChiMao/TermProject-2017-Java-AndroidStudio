@@ -22,8 +22,9 @@ Slides: [pdf](https://docs.google.com/presentation/d/1YsvzB4KOTbtPYtGbjwFzsWaPwZ
 <summary>More Figures: </summary>  
   
 - 學生:  
-  <img src="https://i.ibb.co/FxNwbf8/s-4.jpg" alt="s-4" width="200" style="zoom:100%;"/>  
-  
+  <img src="https://i.ibb.co/FxNwbf8/s-4.jpg" alt="s-4" width="200" style="zoom:100%;"/> 
+  <img src="https://i.ibb.co/19Nc772/s-5.jpg" alt="s-5" width="200" style="zoom:100%;"/> 
+  <img src="https://i.ibb.co/GCX7PqK/s-6.jpg" alt="s-6" width="200" style="zoom:100%;"/>  
 - 老師:  
   
 </details>  
