@@ -15,7 +15,7 @@ Slides: [pdf](https://docs.google.com/presentation/d/1YsvzB4KOTbtPYtGbjwFzsWaPwZ
 
   |      |   Example images     |  
   | :--: | :------------------: |  
-  | 學生 |<img src="https://i.ibb.co/tc8FdwJ/s-1.jpg" width="300" style="zoom:100%;"/><img src="https://i.ibb.co/JpZcgZq/s-2.jpg" width="300" style="zoom:100%;"/>|  
+  | 學生 |<img src="https://i.ibb.co/tc8FdwJ/s-1.jpg" width="200" style="zoom:100%;"/> <img src="https://i.ibb.co/JpZcgZq/s-2.jpg" width="200" style="zoom:100%;"/> <img src="https://i.ibb.co/N6QnT7t/s-3.jpg" width="200" style="zoom:100%;"/>|  
   | 老師 |<img src="figures/dehaze_bf.gif" alt="dehaze_bf.gif" width="300" style="zoom:100%;" />|  
 ## Socket Connection  
 <img src="https://i.ibb.co/Bsb9sWw/1.jpg" alt="1" width="500" >  
