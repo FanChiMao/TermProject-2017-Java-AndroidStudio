@@ -1,5 +1,6 @@
 # 即時課堂互動 Classroom Interaction App (畢業專題 2017)  
-## 許宸瑜, 謝子晏, 范植貿, 周易凱  
+## 指導教授: 趙一芬  
+## 組員: 許宸瑜, 謝子晏, 范植貿, 周易凱  
 
 Poster: [png](https://drive.google.com/file/d/1pPpoq9PRbmME50cs4kl6S2eDQKlYFMkZ/view?usp=sharing)  
 
