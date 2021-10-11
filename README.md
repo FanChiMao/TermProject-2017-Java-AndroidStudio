@@ -46,6 +46,7 @@ Slides: [pdf](https://docs.google.com/presentation/d/1YsvzB4KOTbtPYtGbjwFzsWaPwZ
   | "Chinese"   | "Chapter 2"      | "國 怎麼拼?"              | 1                        | 1                        |  
   | "Math"      | "Chapter 1"      | "1 + 1 = ?"              | 1                        | 1                        |  
   | "English"   | "Chapter 1"      | "國 的英文?"              | 1                        | 0                        |  
+  | ... | ... | ... | ... | ... |  
   
 - Teacher database table 老師資料庫:  
   - 題目資料庫  
@@ -53,7 +54,7 @@ Slides: [pdf](https://docs.google.com/presentation/d/1YsvzB4KOTbtPYtGbjwFzsWaPwZ
   |科目|章節|題目內容|選項(A)內容|選項(B)內容|選項(C)內容|選項(D)內容|正確答案|時間設定|本題配分|出題時間|考試人數|  
   |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|  
   | "數學"   | "加法"| "1 + 1 = ?"|"1"|"2"|"3"|"4"|"2"|5|10|"2021-1-1"|1|  
-  | .. | .. | .. | .. | .. | .. | .. | .. | .. | .. | .. | .. |  
+  | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |  
   
 
   
